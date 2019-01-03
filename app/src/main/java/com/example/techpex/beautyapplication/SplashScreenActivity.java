@@ -17,6 +17,7 @@ public class SplashScreenActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash_screen);
         delayScreenForSometime();
     }
+
     private void delayScreenForSometime(){
         new Handler().postDelayed(new Runnable() {
 
@@ -29,5 +30,9 @@ public class SplashScreenActivity extends AppCompatActivity {
                 finish();
             }
         }, SPLASH_TIME_OUT);
+    }
+
+    public void test(){
+
     }
 }
