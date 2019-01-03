@@ -35,4 +35,8 @@ public class SplashScreenActivity extends AppCompatActivity {
     public void test(){
 
     }
+
+    public void test2(){
+
+    }
 }
