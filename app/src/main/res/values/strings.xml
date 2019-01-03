@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BeautyApplication</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">About Us</string>
+    <string name="help">Help</string>
+    <string name="str_about_us">Shashanka Salon and Spa has evolved to be the best destination for hair, skin, and beauty services. We offer a variety of services that includes hair, skin, spa facials and bridal makeup and  we are known for our exceptional hair cuts, hair styles, facials , bridal makeups and many more. We are equipped with a good ambiance, accord music and modern salon and spa amenities to provide a diverse range of bridal services.
+        At shashanka, we are committed to ensure that each time you visit our beauty parlor we will exceed your expectations in Customer service, Professionalism, and Quality and Consistency of services. Our  staff is continually trained with the latest styles, techniques and products.
+        A primary component of our success has been the courteous and intuitive service provided by our team. We offer our expert consultations as a complementary. Advice and recommendations are tailored to each client’s image, style, and persona.</string>
+    <string name="login">Login</string>
+    <string name="home">Home</string>
+    <string name="blog">Blog</string>
+
+    <string-array name="location_list">
+        <item>Select location</item>
+        <item>Ghazipur</item>
+        <item>Varnasi</item>
+        <item>Lucknow</item>
+    </string-array>
+
+    <string name="password_required">User Password Required</string>
+    <string name="login_successful">Login Successfully....</string>
+    <string name="input_valid_pwd">Please enter valid password</string>
+    <string name="input_valid_mob_num">Please enter valid mobile number</string>
+    <string name="input_mob_number">Please enter mobile number.</string>
+    <string name="number_validate">Mobile number should be of 10 digit</string>
+    <string name="input_user_name">User Name Required</string>
+    <string name="register_successfully">Registered Successfully....</string>
+    <string name="passoword">Passowrd</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="new_user">New User?</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="register">Register</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="submit">SUBMIT</string>
+    <string name="email_id">Email Id</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_person_icon"
+            android:title="@string/login" />
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_icon"
+            android:title="@string/home" />
+
+        <item
+            android:id="@+id/nav_my_appointment"
+            android:icon="@drawable/ic_appointment_icon"
+            android:title="My Appointment" />
+
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/ic_contact_us_icon"
+            android:title="@string/contact_us" />
+
+        <item
+            android:id="@+id/nav_blog"
+            android:icon="@drawable/ic_contact_us_icon"
+            android:title="@string/blog" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_help_icon"
+            android:title="@string/help" />
+    </group>
+
+</menu>
